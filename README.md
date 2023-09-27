@@ -1,5 +1,5 @@
 # react-intro
-# My React Project
+
 
 This project is based on the "Complete Intro to React v8" tutorial by Brian Holt. It is a React application that implements the concepts and techniques covered in the tutorial.
 
